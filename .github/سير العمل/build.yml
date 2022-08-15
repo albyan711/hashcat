@@ -30,7 +30,7 @@ on:
       - '.github/workflows/build.yml'
   pull_request:
     branches:
-      - master
+      - master ALSAIRE711
     paths:
       - 'OpenCL/**.h'
       - 'OpenCL/**.cl'
